@@ -14,7 +14,7 @@ form.addEventListener("submit", function (e) {
   }
 
   if (!altura) {
-    setResultado("Altura falsa", false);
+    setResultado("Altura invalida", false);
     return;
   }
 
