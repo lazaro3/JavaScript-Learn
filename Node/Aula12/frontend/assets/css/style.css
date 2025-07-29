@@ -15,7 +15,7 @@ body {
   background: var(--primary-color);
   font-family: 'Open sans', sans-serif;
   font-size: 1.3em;
-  line-height: 1.5em;
+  line-height: 1.5em;      
 }
 
 .container {
